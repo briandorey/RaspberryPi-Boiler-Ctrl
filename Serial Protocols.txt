@@ -1,0 +1,11 @@
+h = Hot water on
+i = hot water off
+j = hot water status check
+
+c = central heating on
+d = central heating off
+e = central heating check
+
+
+RA1 = HW Control
+RA7 = CH Control
